@@ -4,9 +4,6 @@ PDFs
 Websites
 ./web_shot.sh hxxps://URL.HERE/
 
-Get screenshot of website
-"cutycapt --url=hxxps://www.memes.org/ --out=webshot.png"
-
 Documents
-"doc2pdf document.docx"
-then do pdf
+./doc_check.sh DOC_NAME.docx
+

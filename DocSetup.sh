@@ -4,7 +4,7 @@ if ! [ $(id -u) = 0 ]; then
    exit 1
 fi
 
-Dependencies = "xpdf python git CutyCapt"
+Dependencies = "xpdf python git CutyCapt unoconv"
 
 apt update
 apt install -y $Dependencies
