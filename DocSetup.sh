@@ -4,7 +4,7 @@ if ! [ $(id -u) = 0 ]; then
    exit 1
 fi
 
-Dependencies = "pdfinfo python git"
+Dependencies = "xpdf python git"
 
 apt update
 apt install -y $Dependencies

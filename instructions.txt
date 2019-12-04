@@ -1,0 +1,7 @@
+Websites
+Get screenshot of website
+"cutycapt --url=hxxps://www.memes.org/ --out=webshot.png"
+
+Documents
+"doc2pdf document.docx"
+then do pdf
