@@ -1,4 +1,9 @@
+PDFs
+./pdf_check.sh PDF_NAME.pdf
+
 Websites
+./web_shot.sh hxxps://URL.HERE/
+
 Get screenshot of website
 "cutycapt --url=hxxps://www.memes.org/ --out=webshot.png"
 

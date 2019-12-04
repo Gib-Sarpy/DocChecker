@@ -1,4 +1,9 @@
 #!/bin/bash
+if [ -z "$1" ]
+  then
+    echo "No argument supplied, please put in pdf name"
+fi
+
 name=$1
 
 echo $name

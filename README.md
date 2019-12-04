@@ -3,6 +3,6 @@ Script to do some basic file type conversions to hand clean documents back to us
 
 **Instructions**
 1. Clone this repo
-2. make the setup executable "chmod +x DocSetup.sh"
-3. run the script as root "sudo ./DocSetup.sh"
+2. make the scripts executable "chmod +x *.sh"
+3. run the setup/dependency script as root "sudo ./DocSetup.sh"
 4. read instructions to use
